@@ -1,0 +1,24 @@
+{
+  "bones": {
+    "head_pitch": {"target": "J_Bip_C_Head", "property": "rotation_euler", "axis": "X"},
+    "head_yaw": {"target": "J_Bip_C_Head", "property": "rotation_euler", "axis": "Y"},
+    "head_roll": {"target": "J_Bip_C_Head", "property": "rotation_euler", "axis": "Z"},
+    "neck_tilt": {"target": "J_Bip_C_Neck", "property": "rotation_euler", "axis": "X"},
+    "shoulder_left_sh rug": {"target": "J_Bip_L_Shoulder", "property": "rotation_euler", "axis": "Y"}
+  },
+  "shapes": {
+    "mouth_open": {"target": "Fcl_MTH_O", "property": "value"},
+    "mouth_close": {"target": "Fcl_MTH_Close", "property": "value"},
+    "viseme_A": {"target": "Fcl_MTH_A", "property": "value"},
+    "viseme_I": {"target": "Fcl_MTH_I", "property": "value"},
+    "viseme_U": {"target": "Fcl_MTH_U", "property": "value"},
+    "viseme_E": {"target": "Fcl_MTH_E", "property": "value"},
+    "viseme_O": {"target": "Fcl_MTH_O", "property": "value"},
+    "eye_blink": {"target": "Fcl_EYE_Close", "property": "value"},
+    "eye_blink_left": {"target": "Fcl_EYE_Close_L", "property": "value"},
+    "eye_blink_right": {"target": "Fcl_EYE_Close_R", "property": "value"},
+    "emotion_angry": {"target": "Fcl_ALL_Angry", "property": "value"},
+    "emotion_joy": {"target": "Fcl_ALL_Joy", "property": "value"},
+    "emotion_surprised": {"target": "Fcl_ALL_Surprised", "property": "value"}
+  }
+}

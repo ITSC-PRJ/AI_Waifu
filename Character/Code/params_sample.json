@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": 0.0,
+    "bones": {
+      "head_pitch": {"rotation": [10.0]},
+      "head_yaw": {"rotation": [5.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.5,
+      "eye_blink": 0.2,
+      "emotion_joy": 0.0
+    },
+    "duration": 0.5
+  },
+  {
+    "timestamp": 0.5,
+    "bones": {
+      "head_pitch": {"rotation": [15.0]},
+      "head_yaw": {"rotation": [0.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.8,
+      "eye_blink": 0.0,
+      "emotion_joy": 0.4
+    },
+    "duration": 0.5
+  },
+  {
+    "timestamp": 1.0,
+    "bones": {
+      "head_pitch": {"rotation": [5.0]},
+      "head_yaw": {"rotation": [-5.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.3,
+      "eye_blink": 0.5,
+      "emotion_joy": 0.8
+    },
+    "duration": 0.5
+  },
+  {
+    "timestamp": 1.5,
+    "bones": {
+      "head_pitch": {"rotation": [0.0]},
+      "head_yaw": {"rotation": [0.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.0,
+      "eye_blink": 0.0,
+      "emotion_surprised": 0.5
+    },
+    "duration": 0.5
+  },
+  {
+    "timestamp": 2.0,
+    "bones": {
+      "head_pitch": {"rotation": [-5.0]},
+      "head_yaw": {"rotation": [5.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.2,
+      "eye_blink": 0.0,
+      "emotion_surprised": 1.0
+    },
+    "duration": 0.5
+  },
+  {
+    "timestamp": 2.5,
+    "bones": {
+      "head_pitch": {"rotation": [0.0]},
+      "head_yaw": {"rotation": [0.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.0,
+      "eye_blink": 0.2,
+      "emotion_joy": 0.2
+    },
+    "duration": 0.5
+  }
+]
