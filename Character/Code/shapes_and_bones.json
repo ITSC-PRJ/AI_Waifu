@@ -1,0 +1,1624 @@
+{
+    "armature_name": "Armature",
+    "mesh_name": "Face",
+    "shape_keys": [
+        {
+            "name": "Basis",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Neutral",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Angry",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Fun",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Joy",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Sorrow",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_ALL_Surprised",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_BRW_Angry",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_BRW_Fun",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_BRW_Joy",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_BRW_Sorrow",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_BRW_Surprised",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Natural",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Angry",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Close",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Close_R",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Close_L",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Fun",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Joy",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Joy_R",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Joy_L",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Sorrow",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Surprised",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Spread",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Iris_Hide",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_EYE_Highlight_Hide",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Close",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Up",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Down",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Angry",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Small",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Large",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Neutral",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Fun",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Joy",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Sorrow",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_Surprised",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_SkinFung",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_SkinFung_R",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_SkinFung_L",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_A",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_I",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_U",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_E",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_MTH_O",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Hide",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung1",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung1_Low",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung1_Up",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung2",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung2_Low",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung2_Up",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung3",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung3_Up",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Fung3_Low",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Short",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Short_Up",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Fcl_HA_Short_Low",
+            "value_range": [
+                0.0,
+                1.0
+            ]
+        }
+    ],
+    "bones": [
+        {
+            "name": "Root",
+            "parent": null,
+            "head": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_Hips",
+            "parent": "Root",
+            "head": [
+                0.0,
+                -0.0043677375651896,
+                0.8953758478164673
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_Spine",
+            "parent": "J_Bip_C_Hips",
+            "head": [
+                -5.764621945443796e-32,
+                -0.016819842159748077,
+                0.9513531923294067
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_Chest",
+            "parent": "J_Bip_C_Spine",
+            "head": [
+                1.952569927534895e-17,
+                -0.02032414823770523,
+                1.0585641860961914
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_UpperChest",
+            "parent": "J_Bip_C_Chest",
+            "head": [
+                -8.657664374590338e-18,
+                -0.006571426521986723,
+                1.160036325454712
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_Bust1",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                0.04581281915307045,
+                -0.0690484568476677,
+                1.1534640789031982
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_Bust2",
+            "parent": "J_Sec_L_Bust1",
+            "head": [
+                0.06440665572881699,
+                -0.10695099085569382,
+                1.1631702184677124
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_Bust2_end",
+            "parent": "J_Sec_L_Bust2",
+            "head": [
+                0.09445275366306305,
+                -0.1681983321905136,
+                1.1788544654846191
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_Bust1",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                -0.04581281915307045,
+                -0.0690484568476677,
+                1.1534640789031982
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_Bust2",
+            "parent": "J_Sec_R_Bust1",
+            "head": [
+                -0.06440665572881699,
+                -0.10695099085569382,
+                1.1631702184677124
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_Bust2_end",
+            "parent": "J_Sec_R_Bust2",
+            "head": [
+                -0.09445275366306305,
+                -0.1681983321905136,
+                1.1788544654846191
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_C_Hood_01",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                2.2886785567058117e-17,
+                0.08959057182073593,
+                1.2848317623138428
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_C_Hood_end_01",
+            "parent": "J_Sec_C_Hood_01",
+            "head": [
+                3.603356084650941e-15,
+                0.09686088562011719,
+                1.2114038467407227
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_C_Hood_end_01_end",
+            "parent": "J_Sec_C_Hood_end_01",
+            "head": [
+                6.850758431679524e-15,
+                0.10375805199146271,
+                1.1417444944381714
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_HoodString1_01",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                0.02920839749276638,
+                -0.054957225918769836,
+                1.2635189294815063
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_HoodString2_01",
+            "parent": "J_Sec_L_HoodString1_01",
+            "head": [
+                0.03453456237912178,
+                -0.10662176460027695,
+                1.1676106452941895
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_HoodString2_end_01",
+            "parent": "J_Sec_L_HoodString2_01",
+            "head": [
+                0.03850962594151497,
+                -0.11174032837152481,
+                1.051692008972168
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_HoodString2_end_01_end",
+            "parent": "J_Sec_L_HoodString2_end_01",
+            "head": [
+                0.040906306356191635,
+                -0.11482647806406021,
+                0.9818011522293091
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_HoodString1_01",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                -0.02920839749276638,
+                -0.054957225918769836,
+                1.2635189294815063
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_HoodString2_01",
+            "parent": "J_Sec_R_HoodString1_01",
+            "head": [
+                -0.03453456237912178,
+                -0.10662176460027695,
+                1.1676106452941895
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_HoodString2_end_01",
+            "parent": "J_Sec_R_HoodString2_01",
+            "head": [
+                -0.03850962594151497,
+                -0.11174032837152481,
+                1.051692008972168
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_HoodString2_end_01_end",
+            "parent": "J_Sec_R_HoodString2_end_01",
+            "head": [
+                -0.040906306356191635,
+                -0.11482647806406021,
+                0.9818011522293091
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_Neck",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                -9.710693418511169e-17,
+                0.02816908434033394,
+                1.2798538208007812
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_C_Head",
+            "parent": "J_Bip_C_Neck",
+            "head": [
+                -2.2938424493190723e-08,
+                0.01923942193388939,
+                1.3510841131210327
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Adj_L_FaceEye",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.014649963937699795,
+                -0.004631063435226679,
+                1.4140902757644653
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Adj_R_FaceEye",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                -0.014649995602667332,
+                -0.004631084855645895,
+                1.4140900373458862
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_01",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.002419263357296586,
+                -0.08963415026664734,
+                1.4583550691604614
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_01",
+            "parent": "J_Sec_Hair1_01",
+            "head": [
+                0.013324463739991188,
+                -0.09384951740503311,
+                1.4071053266525269
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_01_end",
+            "parent": "J_Sec_Hair2_01",
+            "head": [
+                0.02784634940326214,
+                -0.09946290403604507,
+                1.338858723640442
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_02",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.06905481964349747,
+                -0.07206430286169052,
+                1.4228287935256958
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_02",
+            "parent": "J_Sec_Hair1_02",
+            "head": [
+                0.06486324220895767,
+                -0.0718880146741867,
+                1.356709361076355
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_02",
+            "parent": "J_Sec_Hair2_02",
+            "head": [
+                0.04095446690917015,
+                -0.06260150671005249,
+                1.2994184494018555
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_02_end",
+            "parent": "J_Sec_Hair3_02",
+            "head": [
+                0.014291981235146523,
+                -0.05224541202187538,
+                1.2355290651321411
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_03",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.08674200624227524,
+                0.01526547409594059,
+                1.4270497560501099
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_03",
+            "parent": "J_Sec_Hair1_03",
+            "head": [
+                0.08783640712499619,
+                0.015863046050071716,
+                1.3830538988113403
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_03",
+            "parent": "J_Sec_Hair2_03",
+            "head": [
+                0.09018087387084961,
+                0.020548371598124504,
+                1.340046763420105
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_03",
+            "parent": "J_Sec_Hair3_03",
+            "head": [
+                0.0651639774441719,
+                0.014823711477220058,
+                1.308181881904602
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_03_end",
+            "parent": "J_Sec_Hair4_03",
+            "head": [
+                0.022362815216183662,
+                0.00502945389598608,
+                1.2536646127700806
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_04",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.08795233815908432,
+                0.053143247961997986,
+                1.433986783027649
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_04",
+            "parent": "J_Sec_Hair1_04",
+            "head": [
+                0.08567781746387482,
+                0.05697866529226303,
+                1.3890697956085205
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_04",
+            "parent": "J_Sec_Hair2_04",
+            "head": [
+                0.08884156495332718,
+                0.06161971762776375,
+                1.3442660570144653
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_04",
+            "parent": "J_Sec_Hair3_04",
+            "head": [
+                0.0759095698595047,
+                0.04685221239924431,
+                1.3093304634094238
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_04_end",
+            "parent": "J_Sec_Hair4_04",
+            "head": [
+                0.05331956222653389,
+                0.021055879071354866,
+                1.2483038902282715
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_05",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                -0.07423441857099533,
+                -0.06024642661213875,
+                1.449337363243103
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_05",
+            "parent": "J_Sec_Hair1_05",
+            "head": [
+                -0.07709691673517227,
+                -0.061073239892721176,
+                1.3745030164718628
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_05",
+            "parent": "J_Sec_Hair2_05",
+            "head": [
+                -0.05658019334077835,
+                -0.057472050189971924,
+                1.3053855895996094
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_05_end",
+            "parent": "J_Sec_Hair3_05",
+            "head": [
+                -0.03668535500764847,
+                -0.0539800189435482,
+                1.2383631467819214
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_06",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                0.00038058587233535945,
+                0.138016015291214,
+                1.442653775215149
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_06",
+            "parent": "J_Sec_Hair1_06",
+            "head": [
+                -0.002038270002231002,
+                0.13793769478797913,
+                1.4001531600952148
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_06",
+            "parent": "J_Sec_Hair2_06",
+            "head": [
+                -0.006895695813000202,
+                0.14273397624492645,
+                1.3582589626312256
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_06",
+            "parent": "J_Sec_Hair3_06",
+            "head": [
+                -0.0035028911661356688,
+                0.14534488320350647,
+                1.3160929679870605
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_06_end",
+            "parent": "J_Sec_Hair4_06",
+            "head": [
+                0.0021007158793509007,
+                0.14965708553791046,
+                1.2464510202407837
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair1_07",
+            "parent": "J_Bip_C_Head",
+            "head": [
+                -0.09221026301383972,
+                0.019122853875160217,
+                1.438588261604309
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair2_07",
+            "parent": "J_Sec_Hair1_07",
+            "head": [
+                -0.09422405809164047,
+                0.02093135006725788,
+                1.3947070837020874
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair3_07",
+            "parent": "J_Sec_Hair2_07",
+            "head": [
+                -0.10291212052106857,
+                0.02377191185951233,
+                1.3519436120986938
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_07",
+            "parent": "J_Sec_Hair3_07",
+            "head": [
+                -0.09503741562366486,
+                0.013502378016710281,
+                1.3127480745315552
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_Hair4_07_end",
+            "parent": "J_Sec_Hair4_07",
+            "head": [
+                -0.08168292790651321,
+                -0.003913449123501778,
+                1.2462774515151978
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Shoulder",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                0.020164089277386665,
+                0.02057233825325966,
+                1.255759596824646
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_UpperArm",
+            "parent": "J_Bip_L_Shoulder",
+            "head": [
+                0.08043177425861359,
+                0.020572375506162643,
+                1.247132658958435
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_LowerArm",
+            "parent": "J_Bip_L_UpperArm",
+            "head": [
+                0.3340325355529785,
+                0.020572369918227196,
+                1.247132658958435
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Hand",
+            "parent": "J_Bip_L_LowerArm",
+            "head": [
+                0.5606691837310791,
+                0.020557951182127,
+                1.2471323013305664
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Index1",
+            "parent": "J_Bip_L_Hand",
+            "head": [
+                0.6150421500205994,
+                0.004138937219977379,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Index2",
+            "parent": "J_Bip_L_Index1",
+            "head": [
+                0.642660915851593,
+                0.004678736906498671,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Index3",
+            "parent": "J_Bip_L_Index2",
+            "head": [
+                0.6596490740776062,
+                0.005337737035006285,
+                1.2528029680252075
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Little1",
+            "parent": "J_Bip_L_Hand",
+            "head": [
+                0.6114034652709961,
+                0.044927988201379776,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Little2",
+            "parent": "J_Bip_L_Little1",
+            "head": [
+                0.6375117301940918,
+                0.04492798075079918,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Little3",
+            "parent": "J_Bip_L_Little2",
+            "head": [
+                0.6525589227676392,
+                0.04492796212434769,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Middle1",
+            "parent": "J_Bip_L_Hand",
+            "head": [
+                0.6157827973365784,
+                0.01884814351797104,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Middle2",
+            "parent": "J_Bip_L_Middle1",
+            "head": [
+                0.6465527415275574,
+                0.018848156556487083,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Middle3",
+            "parent": "J_Bip_L_Middle2",
+            "head": [
+                0.6655354499816895,
+                0.018848158419132233,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Ring1",
+            "parent": "J_Bip_L_Hand",
+            "head": [
+                0.6151549816131592,
+                0.03190791979432106,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Ring2",
+            "parent": "J_Bip_L_Ring1",
+            "head": [
+                0.6436980962753296,
+                0.03190791979432106,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Ring3",
+            "parent": "J_Bip_L_Ring2",
+            "head": [
+                0.6601702570915222,
+                0.03190792724490166,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Thumb1",
+            "parent": "J_Bip_L_Hand",
+            "head": [
+                0.5635953545570374,
+                0.007224010769277811,
+                1.2387725114822388
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Thumb2",
+            "parent": "J_Bip_L_Thumb1",
+            "head": [
+                0.5929677486419678,
+                -0.01805371791124344,
+                1.2370496988296509
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Thumb3",
+            "parent": "J_Bip_L_Thumb2",
+            "head": [
+                0.6117032766342163,
+                -0.03279653191566467,
+                1.2362393140792847
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Shoulder",
+            "parent": "J_Bip_C_UpperChest",
+            "head": [
+                -0.020164089277386665,
+                0.02057233825325966,
+                1.255759596824646
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_UpperArm",
+            "parent": "J_Bip_R_Shoulder",
+            "head": [
+                -0.08043177425861359,
+                0.020572375506162643,
+                1.247132658958435
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_LowerArm",
+            "parent": "J_Bip_R_UpperArm",
+            "head": [
+                -0.3340325355529785,
+                0.020572369918227196,
+                1.247132658958435
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Hand",
+            "parent": "J_Bip_R_LowerArm",
+            "head": [
+                -0.5606691837310791,
+                0.020557951182127,
+                1.2471323013305664
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Index1",
+            "parent": "J_Bip_R_Hand",
+            "head": [
+                -0.6150421500205994,
+                0.004138937219977379,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Index2",
+            "parent": "J_Bip_R_Index1",
+            "head": [
+                -0.642660915851593,
+                0.004678736906498671,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Index3",
+            "parent": "J_Bip_R_Index2",
+            "head": [
+                -0.6596490740776062,
+                0.005337737035006285,
+                1.2528029680252075
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Little1",
+            "parent": "J_Bip_R_Hand",
+            "head": [
+                -0.6114034652709961,
+                0.044927988201379776,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Little2",
+            "parent": "J_Bip_R_Little1",
+            "head": [
+                -0.6375117301940918,
+                0.04492798075079918,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Little3",
+            "parent": "J_Bip_R_Little2",
+            "head": [
+                -0.6525589227676392,
+                0.04492796212434769,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Middle1",
+            "parent": "J_Bip_R_Hand",
+            "head": [
+                -0.6157827973365784,
+                0.01884814351797104,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Middle2",
+            "parent": "J_Bip_R_Middle1",
+            "head": [
+                -0.6465527415275574,
+                0.018848156556487083,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Middle3",
+            "parent": "J_Bip_R_Middle2",
+            "head": [
+                -0.6655354499816895,
+                0.018848158419132233,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Ring1",
+            "parent": "J_Bip_R_Hand",
+            "head": [
+                -0.6151549816131592,
+                0.03190791979432106,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Ring2",
+            "parent": "J_Bip_R_Ring1",
+            "head": [
+                -0.6436980962753296,
+                0.03190791979432106,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Ring3",
+            "parent": "J_Bip_R_Ring2",
+            "head": [
+                -0.6601702570915222,
+                0.03190792724490166,
+                1.253296971321106
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Thumb1",
+            "parent": "J_Bip_R_Hand",
+            "head": [
+                -0.5635953545570374,
+                0.007224010769277811,
+                1.2387725114822388
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Thumb2",
+            "parent": "J_Bip_R_Thumb1",
+            "head": [
+                -0.5929677486419678,
+                -0.01805371791124344,
+                1.2370496988296509
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Thumb3",
+            "parent": "J_Bip_R_Thumb2",
+            "head": [
+                -0.6117032766342163,
+                -0.03279653191566467,
+                1.2362393140792847
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_UpperLeg",
+            "parent": "J_Bip_C_Hips",
+            "head": [
+                0.06946878135204315,
+                -0.0010561550734564662,
+                0.8593511581420898
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtBack_01",
+            "parent": "J_Bip_L_UpperLeg",
+            "head": [
+                0.06771928817033768,
+                0.09972842782735825,
+                0.8183979392051697
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtBack_end_01",
+            "parent": "J_Sec_L_SkirtBack_01",
+            "head": [
+                0.07492305338382721,
+                0.11209256947040558,
+                0.7303639650344849
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtBack_end_01_end",
+            "parent": "J_Sec_L_SkirtBack_end_01",
+            "head": [
+                0.08057691156864166,
+                0.12179652601480484,
+                0.661270797252655
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtFront_01",
+            "parent": "J_Bip_L_UpperLeg",
+            "head": [
+                0.06244078651070595,
+                -0.10641532391309738,
+                0.801158607006073
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtFront_end_01",
+            "parent": "J_Sec_L_SkirtFront_01",
+            "head": [
+                0.06947503983974457,
+                -0.1055498793721199,
+                0.7046778202056885
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtFront_end_01_end",
+            "parent": "J_Sec_L_SkirtFront_end_01",
+            "head": [
+                0.07456490397453308,
+                -0.10492365807294846,
+                0.634865939617157
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtSide_01",
+            "parent": "J_Bip_L_UpperLeg",
+            "head": [
+                0.15453708171844482,
+                -0.004003728274255991,
+                0.8189874291419983
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtSide_end_01",
+            "parent": "J_Sec_L_SkirtSide_01",
+            "head": [
+                0.17645511031150818,
+                0.005659359507262707,
+                0.7235325574874878
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_L_SkirtSide_end_01_end",
+            "parent": "J_Sec_L_SkirtSide_end_01",
+            "head": [
+                0.1920449137687683,
+                0.012532500550150871,
+                0.6556376218795776
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_LowerLeg",
+            "parent": "J_Bip_L_UpperLeg",
+            "head": [
+                0.06946876645088196,
+                0.006577587220817804,
+                0.49456867575645447
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_Foot",
+            "parent": "J_Bip_L_LowerLeg",
+            "head": [
+                0.06935809552669525,
+                0.031350333243608475,
+                0.08612170815467834
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_L_ToeBase",
+            "parent": "J_Bip_L_Foot",
+            "head": [
+                0.06935809552669525,
+                -0.0632925033569336,
+                0.032207563519477844
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_UpperLeg",
+            "parent": "J_Bip_C_Hips",
+            "head": [
+                -0.06946878135204315,
+                -0.0010561550734564662,
+                0.8593511581420898
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtBack_01",
+            "parent": "J_Bip_R_UpperLeg",
+            "head": [
+                -0.06771931797266006,
+                0.09972842037677765,
+                0.8183979392051697
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtBack_end_01",
+            "parent": "J_Sec_R_SkirtBack_01",
+            "head": [
+                -0.07324627041816711,
+                0.11240542680025101,
+                0.7302381992340088
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtBack_end_01_end",
+            "parent": "J_Sec_R_SkirtBack_end_01",
+            "head": [
+                -0.0775817260146141,
+                0.12234953045845032,
+                0.6610838770866394
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtFront_01",
+            "parent": "J_Bip_R_UpperLeg",
+            "head": [
+                -0.062255244702100754,
+                -0.10648540407419205,
+                0.8011367917060852
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtFront_end_01",
+            "parent": "J_Sec_R_SkirtFront_01",
+            "head": [
+                -0.06907365471124649,
+                -0.10570120811462402,
+                0.7046318054199219
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtFront_end_01_end",
+            "parent": "J_Sec_R_SkirtFront_end_01",
+            "head": [
+                -0.07400692999362946,
+                -0.10513383150100708,
+                0.6348081827163696
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtSide_01",
+            "parent": "J_Bip_R_UpperLeg",
+            "head": [
+                -0.15453708171844482,
+                -0.004003721289336681,
+                0.8189875483512878
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtSide_end_01",
+            "parent": "J_Sec_R_SkirtSide_01",
+            "head": [
+                -0.17645473778247833,
+                0.005659377668052912,
+                0.723533034324646
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Sec_R_SkirtSide_end_01_end",
+            "parent": "J_Sec_R_SkirtSide_end_01",
+            "head": [
+                -0.19204434752464294,
+                0.012532555498182774,
+                0.6556380987167358
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_LowerLeg",
+            "parent": "J_Bip_R_UpperLeg",
+            "head": [
+                -0.06946876645088196,
+                0.006577587220817804,
+                0.49456867575645447
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_Foot",
+            "parent": "J_Bip_R_LowerLeg",
+            "head": [
+                -0.06935809552669525,
+                0.031350333243608475,
+                0.08612170815467834
+            ],
+            "is_deform": true
+        },
+        {
+            "name": "J_Bip_R_ToeBase",
+            "parent": "J_Bip_R_Foot",
+            "head": [
+                -0.06935809552669525,
+                -0.0632925033569336,
+                0.032207563519477844
+            ],
+            "is_deform": true
+        }
+    ]
+}

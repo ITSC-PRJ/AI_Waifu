@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": 0.0,
+    "bones": {
+      "head_pitch": {"rotation": [10.0]},
+      "head_yaw": {"rotation": [5.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.5,
+      "eye_blink": 0.2,
+      "viseme_A": 0.7
+    },
+    "duration": 0.033
+  },
+  {
+    "timestamp": 0.033,
+    "bones": {
+      "head_pitch": {"rotation": [15.0]},
+      "head_yaw": {"rotation": [0.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.8,
+      "eye_blink": 0.0,
+      "viseme_O": 0.6
+    },
+    "duration": 0.033
+  },
+  {
+    "timestamp": 0.066,
+    "bones": {
+      "head_pitch": {"rotation": [5.0]},
+      "head_yaw": {"rotation": [-5.0]}
+    },
+    "shapes": {
+      "mouth_open": 0.3,
+      "eye_blink": 0.5,
+      "emotion_joy": 0.4
+    },
+    "duration": 0.033
+  }
+]
